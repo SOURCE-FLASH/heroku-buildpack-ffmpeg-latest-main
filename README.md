@@ -1,1 +1,0 @@
-# heroku-buildpack-ffmpeg-latest

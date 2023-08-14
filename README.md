@@ -1,1 +1,1 @@
-# heroku-buildpack-ffmpeg-latest-main
+# heroku-buildpack-ffmpeg-latest
